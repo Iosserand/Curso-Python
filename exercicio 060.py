@@ -7,4 +7,5 @@ while cont > 0:
     print(' x ' if cont > 1 else ' = ', end='')
     fat = cont * fat
     cont -= 1
+    
 print('{}'.format(fat))
