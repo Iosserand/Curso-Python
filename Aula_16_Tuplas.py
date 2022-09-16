@@ -5,7 +5,7 @@ lanche = ('Hambúguer', 'Suco', 'Pizza', 'Pudim', 'Batata frita')
 for arnaldo in enumerate(lanche):
     comida = arnaldo[1]
     pos = arnaldo[0]
-    print(pos)
+    print(pos, comida)
 # %%
 
 
